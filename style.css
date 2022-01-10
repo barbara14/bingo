@@ -1,0 +1,15 @@
+.content {
+  display: flex;
+  justify-content: space-evenly;
+}
+.cardNumber {
+  border: 1px;
+  border-radius: 5px;
+}
+
+.cardNumberCross {
+  border: 1px;
+  border-radius: 5px;
+  color: red;
+  text-decoration: line-through;
+}
